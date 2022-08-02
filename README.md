@@ -1,5 +1,13 @@
 # commons
 
+## pipy URL
+
+https://test.pypi.org/project/tpp-guille-santi-commons/0.0.2/
+
+## Use
+
+pip install tpp-guille-santi-commons
+
 ## Build guide
 
 ### Make sure you have upgraded version of pip
